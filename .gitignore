@@ -1,0 +1,18 @@
+# .gitignore
+
+# Docker
+.docker/
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+/tmp/
+*.tmp
